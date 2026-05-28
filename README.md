@@ -34,8 +34,9 @@
         Coding with Beat（码上律动）
       </h2>
       <p>
-        A pixel-art DJ companion that lives inside Claude Code — plays music,
-        shows lyrics, and reacts to your coding vibes.
+        将音乐搬进 AI 终端 · 打造 Coding 专属智能 DJ · 探索听歌新范式与交互式音乐体验。
+        <br>
+        氛围音乐 · 感知上下文 · 增强心流：AI 编码入流 → 情绪自动管理 → 专注力提升。
       </p>
       <p>
         <a href="https://codebeat.top/"><kbd>Website</kbd></a>
@@ -130,7 +131,7 @@
 
 | Project | What it is | Website | Code |
 | --- | --- | --- | --- |
-| Coding with Beat | Pixel-art DJ companion for Claude Code | [codebeat.top](https://codebeat.top/) | [GitHub](https://github.com/jaychempan/coding-with-beat) |
+| Coding with Beat | 将音乐搬进 AI 终端的 Coding 专属智能 DJ | [codebeat.top](https://codebeat.top/) | [GitHub](https://github.com/jaychempan/coding-with-beat) |
 | Agent Leaderboard | AI agent ecosystem leaderboard | [agentskills.media](https://agentskills.media/) | [GitHub](https://github.com/jaychempan/Agent-Leaderboard) |
 | RS Paper Hub | Remote sensing and earth observation paper hub | [rspaper.top](https://rspaper.top/) | [GitHub](https://github.com/ML4Sustain/rs-paper-hub) |
 | CCF DDL Tracker | Chrome extension for CCF deadlines | [Project page](https://jianchengpan.space/ccf-ddl-tracker/) | [GitHub](https://github.com/jaychempan/ccf-ddl-tracker) |

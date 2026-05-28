@@ -53,37 +53,12 @@
       <a href="https://agentskills.media/">
         <img src="../images/previews/agentskills-web.png" alt="Agent Leaderboard website preview" width="100%">
       </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://rspaper.top/">
-        <img src="../images/previews/rspaperhub.png" alt="RS Paper Hub website preview" width="100%">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+      <br><br>
       <h3>
         <img src="../images/agentskills-logo.svg" alt="Agent Leaderboard logo" width="24" height="24" align="absmiddle">
         Agent Leaderboard（Agent 排行榜）
       </h3>
-    </td>
-    <td width="50%" valign="top">
-      <h3>
-        <img src="../images/rspaper-logo.png" alt="RS Paper Hub logo" width="24" height="24" align="absmiddle">
-        RS Paper Hub（遥感论文社）
-      </h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" height="72">
-      <p>Leaderboard for the AI agent ecosystem — Skills, MCP, Prompts, Frameworks & Research.</p>
-    </td>
-    <td width="50%" valign="top" height="72">
-      <p>An open-source platform that helps the remote sensing and earth observation community stay on top of the latest research.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+      <p>Tracking the AI agent ecosystem across skills, MCP, prompts, frameworks, and research.</p>
       <p>
         <a href="https://agentskills.media/">Website</a>
         ·
@@ -91,6 +66,15 @@
       </p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://rspaper.top/">
+        <img src="../images/previews/rspaperhub.png" alt="RS Paper Hub website preview" width="100%">
+      </a>
+      <br><br>
+      <h3>
+        <img src="../images/rspaper-logo.png" alt="RS Paper Hub logo" width="24" height="24" align="absmiddle">
+        RS Paper Hub（遥感论文社）
+      </h3>
+      <p>Helping the remote sensing and earth observation community follow new research.</p>
       <p>
         <a href="https://rspaper.top/">Website</a>
         ·
@@ -103,37 +87,12 @@
       <a href="https://jianchengpan.space/ccf-ddl-tracker/">
         <img src="../images/previews/ccf-ddl-web.png" alt="CCF DDL Tracker website preview" width="100%">
       </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://jianchengpan.space/citation-tracker/">
-        <img src="../images/previews/citation-tracker-web.png" alt="Citation Tracker website preview" width="100%">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+      <br><br>
       <h3>
         <img src="../images/ccf-ddl-tracker-logo.png" alt="CCF DDL Tracker logo" width="24" height="24" align="absmiddle">
         CCF DDL Tracker
       </h3>
-    </td>
-    <td width="50%" valign="top">
-      <h3>
-        <img src="../images/citation-tracker-logo.png" alt="Citation Tracker logo" width="24" height="24" align="absmiddle">
-        Citation Tracker
-      </h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" height="56">
-      <p>A lightweight Chrome extension for tracking CCF conference deadlines.</p>
-    </td>
-    <td width="50%" valign="top" height="56">
-      <p>A lightweight Chrome extension for tracking citations.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+      <p>A lightweight Chrome extension for keeping CCF conference deadlines visible.</p>
       <p>
         <a href="https://jianchengpan.space/ccf-ddl-tracker/">Website</a>
         ·
@@ -141,6 +100,15 @@
       </p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://jianchengpan.space/citation-tracker/">
+        <img src="../images/previews/citation-tracker-web.png" alt="Citation Tracker website preview" width="100%">
+      </a>
+      <br><br>
+      <h3>
+        <img src="../images/citation-tracker-logo.png" alt="Citation Tracker logo" width="24" height="24" align="absmiddle">
+        Citation Tracker
+      </h3>
+      <p>A small Chrome extension for watching citation changes without extra friction.</p>
       <p>
         <a href="https://jianchengpan.space/citation-tracker/">Website</a>
         ·

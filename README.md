@@ -37,9 +37,9 @@
         shows lyrics, and reacts to your coding vibes.
       </p>
       <p>
-        <a href="https://codebeat.top/"><b>Website</b></a>
-        ·
-        <a href="https://github.com/jaychempan/coding-with-beat"><b>Source Code</b></a>
+        <a href="https://codebeat.top/"><kbd>Website</kbd></a>
+        &nbsp;
+        <a href="https://github.com/jaychempan/coding-with-beat"><kbd>GitHub</kbd></a>
       </p>
     </td>
   </tr>
@@ -60,9 +60,9 @@
       </h3>
       <p>Tracking the AI agent ecosystem across skills, MCP, prompts, frameworks, and research.</p>
       <p>
-        <a href="https://agentskills.media/">Website</a>
-        ·
-        <a href="https://github.com/jaychempan/Agent-Leaderboard">Code</a>
+        <a href="https://agentskills.media/"><kbd>Website</kbd></a>
+        &nbsp;
+        <a href="https://github.com/jaychempan/Agent-Leaderboard"><kbd>GitHub</kbd></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -76,9 +76,9 @@
       </h3>
       <p>Helping the remote sensing and earth observation community follow new research.</p>
       <p>
-        <a href="https://rspaper.top/">Website</a>
-        ·
-        <a href="https://github.com/ML4Sustain/rs-paper-hub">Code</a>
+        <a href="https://rspaper.top/"><kbd>Website</kbd></a>
+        &nbsp;
+        <a href="https://github.com/ML4Sustain/rs-paper-hub"><kbd>GitHub</kbd></a>
       </p>
     </td>
   </tr>
@@ -94,9 +94,9 @@
       </h3>
       <p>A lightweight Chrome extension for keeping CCF conference deadlines visible.</p>
       <p>
-        <a href="https://jianchengpan.space/ccf-ddl-tracker/">Website</a>
-        ·
-        <a href="https://github.com/jaychempan/ccf-ddl-tracker">Code</a>
+        <a href="https://jianchengpan.space/ccf-ddl-tracker/"><kbd>Website</kbd></a>
+        &nbsp;
+        <a href="https://github.com/jaychempan/ccf-ddl-tracker"><kbd>GitHub</kbd></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -110,9 +110,9 @@
       </h3>
       <p>A small Chrome extension for watching citation changes without extra friction.</p>
       <p>
-        <a href="https://jianchengpan.space/citation-tracker/">Website</a>
-        ·
-        <a href="https://github.com/jaychempan/citation-tracker">Code</a>
+        <a href="https://jianchengpan.space/citation-tracker/"><kbd>Website</kbd></a>
+        &nbsp;
+        <a href="https://github.com/jaychempan/citation-tracker"><kbd>GitHub</kbd></a>
       </p>
     </td>
   </tr>

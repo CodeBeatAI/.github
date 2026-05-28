@@ -54,7 +54,7 @@
       <a href="https://agentskills.media/">
         <img src="../images/previews/agentskills-web.png" alt="Agent Leaderboard website preview" width="100%">
       </a>
-      <br><br>
+      <br>
       <h3>
         <img src="../images/agentskills-logo.svg" alt="Agent Leaderboard logo" width="24" height="24" align="absmiddle">
         Agent Leaderboard（Agent 排行榜）
@@ -70,7 +70,7 @@
       <a href="https://rspaper.top/">
         <img src="../images/previews/rspaperhub.png" alt="RS Paper Hub website preview" width="100%">
       </a>
-      <br><br>
+      <br>
       <h3>
         <img src="../images/rspaper-logo.png" alt="RS Paper Hub logo" width="24" height="24" align="absmiddle">
         RS Paper Hub（遥感论文社）
@@ -94,7 +94,7 @@
         <a href="https://jianchengpan.space/ccf-ddl-tracker/">
           <img src="../images/previews/ccf-ddl-web.png" alt="CCF DDL Tracker website preview" width="100%">
         </a>
-        <br><br>
+        <br>
         <h3>
           <img src="../images/ccf-ddl-tracker-logo.png" alt="CCF DDL Tracker logo" width="24" height="24" align="absmiddle">
           CCF DDL Tracker
@@ -110,7 +110,7 @@
         <a href="https://jianchengpan.space/citation-tracker/">
           <img src="../images/previews/citation-tracker-web.png" alt="Citation Tracker website preview" width="100%">
         </a>
-        <br><br>
+        <br>
         <h3>
           <img src="../images/citation-tracker-logo.png" alt="Citation Tracker logo" width="24" height="24" align="absmiddle">
           Citation Tracker

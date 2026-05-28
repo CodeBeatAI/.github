@@ -9,11 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="https://codebeat.top/">Coding with Beat</a>
-  ·
-  <a href="https://github.com/CodeBeatAI">GitHub Organization</a>
-  ·
-  <a href="https://jianchengpan.space/">Homepage</a>
+  <a href="https://codebeat.top/"><img src="https://img.shields.io/badge/website-codebeat.top-9bbc0f?style=flat-square" alt="Website"></a>
+  <a href="https://github.com/CodeBeatAI"><img src="https://img.shields.io/badge/GitHub-CodeBeatAI-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Organization"></a>
+  <a href="https://github.com/jaychempan/coding-with-beat"><img src="https://img.shields.io/badge/flagship-Coding_with_Beat-c85f41?style=flat-square" alt="Coding with Beat"></a>
+  <img src="https://img.shields.io/badge/AI_Agents-exploring-7c5cbf?style=flat-square" alt="AI Agents">
+  <img src="https://img.shields.io/badge/Research_Tools-building-2563eb?style=flat-square" alt="Research Tools">
+  <img src="https://img.shields.io/badge/Browser_Extensions-lightweight-10a37f?style=flat-square" alt="Browser Extensions">
 </p>
 
 ---

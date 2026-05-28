@@ -82,41 +82,48 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://jianchengpan.space/ccf-ddl-tracker/">
-        <img src="../images/previews/ccf-ddl-web.png" alt="CCF DDL Tracker website preview" width="100%">
-      </a>
-      <br><br>
-      <h3>
-        <img src="../images/ccf-ddl-tracker-logo.png" alt="CCF DDL Tracker logo" width="24" height="24" align="absmiddle">
-        CCF DDL Tracker
-      </h3>
-      <p>A lightweight Chrome extension for keeping CCF conference deadlines visible.</p>
-      <p>
-        <a href="https://jianchengpan.space/ccf-ddl-tracker/"><kbd>Website</kbd></a>
-        &nbsp;
-        <a href="https://github.com/jaychempan/ccf-ddl-tracker"><kbd>GitHub</kbd></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://jianchengpan.space/citation-tracker/">
-        <img src="../images/previews/citation-tracker-web.png" alt="Citation Tracker website preview" width="100%">
-      </a>
-      <br><br>
-      <h3>
-        <img src="../images/citation-tracker-logo.png" alt="Citation Tracker logo" width="24" height="24" align="absmiddle">
-        Citation Tracker
-      </h3>
-      <p>A small Chrome extension for watching citation changes without extra friction.</p>
-      <p>
-        <a href="https://jianchengpan.space/citation-tracker/"><kbd>Website</kbd></a>
-        &nbsp;
-        <a href="https://github.com/jaychempan/citation-tracker"><kbd>GitHub</kbd></a>
-      </p>
-    </td>
-  </tr>
 </table>
+
+<details>
+  <summary><b>Browser Extensions</b> — small utilities for research workflows</summary>
+  <br>
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://jianchengpan.space/ccf-ddl-tracker/">
+          <img src="../images/previews/ccf-ddl-web.png" alt="CCF DDL Tracker website preview" width="100%">
+        </a>
+        <br><br>
+        <h3>
+          <img src="../images/ccf-ddl-tracker-logo.png" alt="CCF DDL Tracker logo" width="24" height="24" align="absmiddle">
+          CCF DDL Tracker
+        </h3>
+        <p>Keep CCF conference deadlines visible.</p>
+        <p>
+          <a href="https://jianchengpan.space/ccf-ddl-tracker/"><kbd>Website</kbd></a>
+          &nbsp;
+          <a href="https://github.com/jaychempan/ccf-ddl-tracker"><kbd>GitHub</kbd></a>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://jianchengpan.space/citation-tracker/">
+          <img src="../images/previews/citation-tracker-web.png" alt="Citation Tracker website preview" width="100%">
+        </a>
+        <br><br>
+        <h3>
+          <img src="../images/citation-tracker-logo.png" alt="Citation Tracker logo" width="24" height="24" align="absmiddle">
+          Citation Tracker
+        </h3>
+        <p>Watch citation changes without extra friction.</p>
+        <p>
+          <a href="https://jianchengpan.space/citation-tracker/"><kbd>Website</kbd></a>
+          &nbsp;
+          <a href="https://github.com/jaychempan/citation-tracker"><kbd>GitHub</kbd></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</details>
 
 ## Project Index
 

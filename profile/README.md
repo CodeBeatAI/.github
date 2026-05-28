@@ -25,12 +25,12 @@
   <tr>
     <td width="45%">
       <a href="https://codebeat.top/">
-        <img src="../images/previews/cwb-web.png" alt="Coding with Beat website preview" width="100%">
+        <img src="https://raw.githubusercontent.com/CodeBeatAI/.github/main/images/previews/cwb-web.png" alt="Coding with Beat website preview" width="100%">
       </a>
     </td>
     <td width="55%">
       <h2>
-        <img src="../images/cwb-logo-icon.png" alt="Coding with Beat logo" width="42" height="42" align="absmiddle">
+        <img src="https://raw.githubusercontent.com/CodeBeatAI/.github/main/images/cwb-logo-icon.png" alt="Coding with Beat logo" width="42" height="42" align="absmiddle">
         Coding with Beat（码上律动）
       </h2>
       <p>
@@ -53,11 +53,11 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://agentskills.media/">
-        <img src="../images/previews/agentskills-web.png" alt="Agent Leaderboard website preview" width="100%">
+        <img src="https://raw.githubusercontent.com/CodeBeatAI/.github/main/images/previews/agentskills-web.png" alt="Agent Leaderboard website preview" width="100%">
       </a>
       <br>
       <h3>
-        <img src="../images/agentskills-logo.svg" alt="Agent Leaderboard logo" width="24" height="24" align="absmiddle">
+        <img src="https://raw.githubusercontent.com/CodeBeatAI/.github/main/images/agentskills-logo.svg" alt="Agent Leaderboard logo" width="24" height="24" align="absmiddle">
         Agent Leaderboard（Agent 排行榜）
       </h3>
       <p>Tracking the AI agent ecosystem across skills, MCP, prompts, frameworks, and research.</p>
@@ -69,11 +69,11 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://rspaper.top/">
-        <img src="../images/previews/rspaperhub.png" alt="RS Paper Hub website preview" width="100%">
+        <img src="https://raw.githubusercontent.com/CodeBeatAI/.github/main/images/previews/rspaperhub.png" alt="RS Paper Hub website preview" width="100%">
       </a>
       <br>
       <h3>
-        <img src="../images/rspaper-logo.png" alt="RS Paper Hub logo" width="24" height="24" align="absmiddle">
+        <img src="https://raw.githubusercontent.com/CodeBeatAI/.github/main/images/rspaper-logo.png" alt="RS Paper Hub logo" width="24" height="24" align="absmiddle">
         RS Paper Hub（遥感论文社）
       </h3>
       <p>Helping the remote sensing and earth observation community follow new research.</p>
@@ -93,11 +93,11 @@
     <tr>
       <td width="50%" valign="top">
         <a href="https://jianchengpan.space/ccf-ddl-tracker/">
-          <img src="../images/previews/ccf-ddl-web.png" alt="CCF DDL Tracker website preview" width="100%">
+          <img src="https://raw.githubusercontent.com/CodeBeatAI/.github/main/images/previews/ccf-ddl-web.png" alt="CCF DDL Tracker website preview" width="100%">
         </a>
         <br>
         <h3>
-          <img src="../images/ccf-ddl-tracker-logo.png" alt="CCF DDL Tracker logo" width="24" height="24" align="absmiddle">
+          <img src="https://raw.githubusercontent.com/CodeBeatAI/.github/main/images/ccf-ddl-tracker-logo.png" alt="CCF DDL Tracker logo" width="24" height="24" align="absmiddle">
           CCF DDL Tracker
         </h3>
         <p>Keep CCF conference deadlines visible.</p>
@@ -109,11 +109,11 @@
       </td>
       <td width="50%" valign="top">
         <a href="https://jianchengpan.space/citation-tracker/">
-          <img src="../images/previews/citation-tracker-web.png" alt="Citation Tracker website preview" width="100%">
+          <img src="https://raw.githubusercontent.com/CodeBeatAI/.github/main/images/previews/citation-tracker-web.png" alt="Citation Tracker website preview" width="100%">
         </a>
         <br>
         <h3>
-          <img src="../images/citation-tracker-logo.png" alt="Citation Tracker logo" width="24" height="24" align="absmiddle">
+          <img src="https://raw.githubusercontent.com/CodeBeatAI/.github/main/images/citation-tracker-logo.png" alt="Citation Tracker logo" width="24" height="24" align="absmiddle">
           Citation Tracker
         </h3>
         <p>Watch citation changes without extra friction.</p>
